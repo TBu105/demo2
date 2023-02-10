@@ -1,0 +1,22 @@
+{
+  "name": "demo2",
+  "version": "1.0.0",
+  "description": "This is the second time I using GitHub and I am trying to do what so ever knowledge I learn with: add, push, pull, status, commit, ...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TBu105/demo2.git"
+  },
+  "author": "Dao Ba Huy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TBu105/demo2/issues"
+  },
+  "homepage": "https://github.com/TBu105/demo2#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
